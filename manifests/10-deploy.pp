@@ -1,0 +1,3 @@
+node /deploy/{
+  include ::deploy
+}
